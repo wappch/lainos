@@ -1,0 +1,79 @@
+7b981328392f653332e7b049383258dba2e41af1b3e89b178b1f4759c198396e  ./README.md
+9381741e1d976fb3f9af4740aa0952b57a8e4a581e1217e867ac87578c5e7ae1  ./dotfiles/clipse/config.json
+7dd8179e5cf43940ae4d962a98d260dcd100fbc8793a9d368257f1647065efa0  ./dotfiles/clipse/custom_theme.json
+ecb9495a799e5e9b4b188a66462aca396bc1dfdf4968ed85473a57f943ebf1a5  ./dotfiles/hypr/hypridle.conf
+b2909702edcd500530496c8006478457e1af266533da80aaf6eeeb570e2aabca  ./dotfiles/hypr/hyprland.conf
+d424db7b44e2b8708aaf63e89d0f5faefb0e223c7f3394ae10911f5456b57b86  ./dotfiles/hypr/hyprpaper.conf
+d710c6a60ad7fe1d177af548d365ab6d1b59f96421c8b1d410cfbdd372ecd4d5  ./dotfiles/hypr/scripts/idle_inhibitor.sh
+5d302c161e5a4359f8926392c2d3a67e6f10480cf41c8128a581d43db123f357  ./dotfiles/hypr/scripts/lock.sh
+0057467e89563f75c5df56a7fd1b1026b0957370208e1f981159214058f8af36  ./dotfiles/hypr/scripts/screenshot_display.sh
+fb5dff18980afcedd37425ac9eb2a5e89ca0f9101989dca4078dcc02357b90c5  ./dotfiles/hypr/scripts/screenshot_window.sh
+34a575eb3b324074e2f4adcffcaac3e19c88186b5058c5bd543fda944506267d  ./dotfiles/hypr/scripts/sleep.sh
+ac8a5319eede5301bae59739b8843cf3e61d70f43c6e206c0f22c982086e6889  ./dotfiles/mako/config
+af69ad8052f3df4a342d051cf9f2d2a26a1d9ebb06b58f31dc372750c61277b1  ./dotfiles/neofetch/config.conf
+ccb29585c385eec4c7224746e7698c29f5edf96473988e94b39db4ec60d3e8f3  ./dotfiles/rofi/colors.rasi
+0a0036a22406ba6f0137ef3a96b19a77ed120bf0c441b8e9b0038888e8d5567c  ./dotfiles/rofi/config.rasi
+bc68dac97814a3e641f80ad209138c2e6b07da25d039330a2c1e2eb1c37c3eb8  ./dotfiles/rofi/fonts.rasi
+e038f20a6e8a9828f67841ca0e90b8fe756383accd6d8af557bd057138828e5d  ./dotfiles/rofi/menu.rasi
+43e2d8a030795f3b03ccf19f281c626589f4e959d7c0c7f7bfdd60d43592833e  ./dotfiles/waybar/config
+7d632cf8982016d2fb68f223fb3d63ad29d52985ce79335aa40288b250bdd815  ./dotfiles/waybar/mouse.sh
+fc328bc6548acf5c534b9d36b244893af25157331fe27e38b980d89555bfd341  ./dotfiles/waybar/scripts/OCV
+4ed45ad71e49ec6dde139e7d22fe9cabe946c98192052c04fc716bc4077542ed  ./dotfiles/waybar/scripts/backlight-hint.sh
+9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa  ./dotfiles/waybar/scripts/bluetooth-widget/current
+981d9da088eb269eb63a8fa98d4da51134cd17e4dc2d403384ad285f9ba4ff9a  ./dotfiles/waybar/scripts/bluetooth-widget/mode.sh
+87db958fce37ac9af14f79cab4d349a5fd3d6ba7a8fed7873d654d51a17da90a  ./dotfiles/waybar/scripts/bluetooth-widget/panel.sh
+bff2355cf1ee22631b04349dd170bf133f7d9f0c1ad0e81bf0ce0373b1286090  ./dotfiles/waybar/scripts/check_updates.sh
+30d94f12aac583138a40fd1412ff6a2eb9508ef82b72ee91c517767a8a79e98f  ./dotfiles/waybar/scripts/cleanup_after_start.sh
+ba6c35597fc9fbec4bff1024a014ec269e9e5f9b435adf062a46260df20186a3  ./dotfiles/waybar/scripts/keyhint.sh
+206ad76aea2023ea48e2bb35ab548d566fb5bf12de5444a3282cfa1bfbead6a4  ./dotfiles/waybar/scripts/network_traffic.sh
+8adea9ac61fce9c14e68687ebc488abba5ccaa26915650caa64fa0ed8dc9bce4  ./dotfiles/waybar/scripts/shutdown/main.sh
+15b2d97d94fd4f4fa45c1e62a053d52527d73a84713020c23d4bb72d921b41a9  ./dotfiles/waybar/scripts/shutdown/opening.sh
+01d9cb3784e63894ed99210f9194e4929ece7f1240c9614d8c7850fa136a5bcc  ./dotfiles/waybar/scripts/view-mode-widget/main.py
+0b6231ad426e3719a196163184a3a2924257dec373aa9a1390c4205101379f38  ./dotfiles/waybar/scripts/volume-widget/main.sh
+f6127083d6986b578214af1071ae7900d9a9623f8fa31969ac60bd2ab35ac3bc  ./dotfiles/waybar/style.css
+287d306516a3b4ed1f2141eb96dd50f71f2962697c5dba52033c964f061ca811  ./sddm-theme/plasma-login-kawaiki/AUTHORS
+eebb015e0fa32b16def6c9d520d4bb99491503f66af291da12549fe50afe2d69  ./sddm-theme/plasma-login-kawaiki/Assets/Hibernate.svgz
+e7137b09e1575869a1ad71e481749354ebc4e112c17722382c291b9fbebff0ef  ./sddm-theme/plasma-login-kawaiki/Assets/Reboot.svgz
+a217eed84e12ba8beb5c182977bcf8b0ab327d28059367221a51404f334a94ef  ./sddm-theme/plasma-login-kawaiki/Assets/Shutdown.svgz
+a2e8ebefd55519689d6c66b7b9c7a9724de7d6faeba8e88bf2950d1d9c27ecfe  ./sddm-theme/plasma-login-kawaiki/Assets/Suspend.svgz
+b806f1f640dab0fdcac78a390d8e73cdf4d115e20a6fd36466e70bbb0b2e1317  ./sddm-theme/plasma-login-kawaiki/Assets/User.svgz
+1d6d9e6227a1ea673e6677a2d3d9f6fdc0562ca8ce85ddf2231732f14267e8be  ./sddm-theme/plasma-login-kawaiki/Backgrounds/Undraw.svg
+8f8200d0507844ca7cd2c596c39aa150b1aaa725c970fa62c2fb884861ba4090  ./sddm-theme/plasma-login-kawaiki/Backgrounds/background.png
+ce3d1489dc9f0a3d184eb1977c8345791f332679e9165db183892cd29ebd0736  ./sddm-theme/plasma-login-kawaiki/Backgrounds/background_.png
+eb5e4045e9c4e948459a761519d307f38edd9cf26e905a2f1396f8861e420cb5  ./sddm-theme/plasma-login-kawaiki/CHANGELOG.md
+c90922ff61611d8177433e53f5b4aed95998b9fbf7e2e63a061415aee3cbd306  ./sddm-theme/plasma-login-kawaiki/COPYING
+00aae714cc233c7f212cdd9e2541ba16dfa79591d114f2d93f8d78efe826c700  ./sddm-theme/plasma-login-kawaiki/CREDITS
+bb7c83884f3976a7c7af343a8c93df799339fbf212fa37c1dd9d5722b03e4ebb  ./sddm-theme/plasma-login-kawaiki/Components/Clock.qml
+7aeb899b2cba2b8ad360669549fc74f1089547adec3ad66a293e1250d2400c98  ./sddm-theme/plasma-login-kawaiki/Components/Input.qml
+3a8dfbe6562e201ae348d53e3b5d783618f3c5afd039bb6b355568d442ff8b47  ./sddm-theme/plasma-login-kawaiki/Components/LoginForm.qml
+13350703ddf8980feef381b5e1cf0358f800894294e45a154de5a6dc33a7a491  ./sddm-theme/plasma-login-kawaiki/Components/SessionButton.qml
+4153697985917808ec39c6d1fb7e3d3cbe9f0b96a5d63764bc535dbd550fcc4b  ./sddm-theme/plasma-login-kawaiki/Components/SystemButtons.qml
+98a7e368292cdddd71264b30019041487ee1cc6b7a3740d869efa32213fdaa1a  ./sddm-theme/plasma-login-kawaiki/Components/UserList.qml
+34896d52d9662b6ebc5ee4d16fddf36f8a9ba744538ba32ef67af1a722475126  ./sddm-theme/plasma-login-kawaiki/Components/VirtualKeyboard.qml
+13e4cbbb2e2c0dd9e770198137c4ed192eb5a9fc950999b2ba6078b0d4811bd6  ./sddm-theme/plasma-login-kawaiki/Main.qml
+2d4e47cce12c5104a3368c35ad844742676893cb7c75703d2b5358d5b4da8902  ./sddm-theme/plasma-login-kawaiki/Previews/ForceRightToLeft.png
+b137ba38674ebc74cd66c3f2ac0f2031dec3b99c1dbad35e05cc3da4043656a1  ./sddm-theme/plasma-login-kawaiki/Previews/FormPosition.png
+c37c32be3b3afb3f86774c3421adac5ab4bacd9bc567d32436f86718f63c7c2e  ./sddm-theme/plasma-login-kawaiki/Previews/FullBlur.png
+beb03297d54257efcb98018aa63acbd45fbc7a856c9fd475371f736444d8ac3c  ./sddm-theme/plasma-login-kawaiki/Previews/InterfacePopup.png
+6aed0599edb521c38efcf8c83c5676f4e93781674523f9a78ba4d0342e587ec3  ./sddm-theme/plasma-login-kawaiki/Previews/ScaleImageCropped.png
+b06bc436611d67fb75cef5b1867478bcf191b6c59b76baeec1ba6b2b0b51185c  ./sddm-theme/plasma-login-kawaiki/Previews/ScreenPadding.png
+b88444aa6f973a74df669eab05f8412f969ce1ca85cd09259a518ebf3c926f81  ./sddm-theme/plasma-login-kawaiki/README.md
+b51c9fc2d1e003e521f513a2f65fd65fd4db23947fa1dd8bc8f88f2114f99331  ./sddm-theme/plasma-login-kawaiki/metadata.desktop
+8cd64406a103fabf7e260580728e1436964b112e697e7af3dbaadd084142b7cd  ./sddm-theme/plasma-login-kawaiki/theme.conf
+ee1c9fa428540ef6d466497d149cf2af8b4f0d39dda9aa6c7d7f7b485157fbf3  ./terminal-colors/fish-read-me.txt
+10bac59fa5bd3e9d76d562bc7e8c7c4b35024c72af8575ba7e9f10f42d08708d  ./terminal-colors/fish/conf.d/done.fish
+101fb3b8eee4903bc79921bd255fa3d95413b9317c90df36abecf384bbea1175  ./terminal-colors/fish/conf.d/mocha.fish
+5e1615e625826d8288c36c4660654ef79d0abb815743bbfea72b23809d43b506  ./terminal-colors/fish/config.fish
+6322b49edbe6249750129cf449cc0252285ca4439a38055246a51b5fc721a885  ./terminal-colors/fish/fish_variables
+96a5fd560d2b18709785a0d2736cbb9e7afb21c1974714488d04cb0fe44d7583  ./terminal-colors/foot/foot.ini
+2f299948f6ee6a8cfc865e10ba58084ad1adba9e733c2dc309f392fced753a56  ./terminal-colors/kitty/kitty.conf
+a53f1622ccd4cdebf2f09ef017aa514c37a90135218b74de1eade42634eebdd2  ./terminal-colors/terminal-colors.txt
+2c042d320e81ef15bc26efce435f2355c9618ee2ce6288af9c44d8309b68db73  ./wallpapers and backgrounds/Lain-is-laughing.png
+0a02278203bb23d5a095143e47adeac0ec404f02d243a6bec11fa05a4f710b97  ./wallpapers and backgrounds/cpoland-os-logo.png
+1a6912684f247352e5ec4adb8a4628c5b9c456c5469ffcde3e4d1ce4a14c5d56  ./wallpapers and backgrounds/empty-Lain.png
+dff0db767090e5f356092d3264ea7a1de0c44c2066d8ec0733638108d3be211b  ./wallpapers and backgrounds/fetch_image.png
+68cebeaa0563191263d3b9c10a507e642befa3169b01ba80fddc3a341635a5b9  ./wallpapers and backgrounds/just-a-sad-Lain.png
+61ad9b29383b6c1d4aefab4b745700edfa00b30c1c041a4090dac969dda245a0  ./wallpapers and backgrounds/just-a-thoughtful-Lain.png
+da630012e2f6e0cd053070b431be32d534b1f7d8e2c9d970f5892deb6ad098a8  ./wallpapers and backgrounds/mysterious-Lain.png
+8f8200d0507844ca7cd2c596c39aa150b1aaa725c970fa62c2fb884861ba4090  ./wallpapers and backgrounds/tables-and-chairs.png
+5f31bd19c33afca2d07c8e0e77d67b258a05a442c388d0fed745e5f492384253  ./wallpapers and backgrounds/the-coolest.png
